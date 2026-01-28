@@ -1,0 +1,21 @@
+# env
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
+venv/
+
+# database
+*.sqlite3
+
+# ide
+.idea/
+
+# docker
+media/
+staticfiles/
